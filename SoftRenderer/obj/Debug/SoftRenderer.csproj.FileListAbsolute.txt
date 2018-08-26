@@ -1,0 +1,8 @@
+E:\Learning\SimpleSoftwareRenderer\SoftRenderer\bin\Debug\SoftRenderer.exe.config
+E:\Learning\SimpleSoftwareRenderer\SoftRenderer\bin\Debug\SoftRenderer.exe
+E:\Learning\SimpleSoftwareRenderer\SoftRenderer\bin\Debug\SoftRenderer.pdb
+E:\Learning\SimpleSoftwareRenderer\SoftRenderer\obj\Debug\SoftRenderer.csprojResolveAssemblyReference.cache
+E:\Learning\SimpleSoftwareRenderer\SoftRenderer\obj\Debug\SoftRenderer.Properties.Resources.resources
+E:\Learning\SimpleSoftwareRenderer\SoftRenderer\obj\Debug\SoftRenderer.csproj.GenerateResource.Cache
+E:\Learning\SimpleSoftwareRenderer\SoftRenderer\obj\Debug\SoftRenderer.exe
+E:\Learning\SimpleSoftwareRenderer\SoftRenderer\obj\Debug\SoftRenderer.pdb
